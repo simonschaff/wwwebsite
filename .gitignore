@@ -1,4 +1,4 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+v# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
@@ -42,4 +42,5 @@ next-env.d.ts
 node_modules/
 
 # public
-/public/
+# /public/ is now tracked, but we ignore the old jpegs
+*.jpg
