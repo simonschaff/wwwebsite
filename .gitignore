@@ -42,5 +42,10 @@ next-env.d.ts
 node_modules/
 
 # public
-# /public/ is now tracked, but we ignore the old jpegs
+# /public/ is now tracked, but we ignore the old files
 *.jpg
+*.jpeg
+*.png
+*.xmp
+*.cr2
+*.raw

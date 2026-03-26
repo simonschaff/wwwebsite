@@ -8,7 +8,7 @@ export function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/graphics/bad/20260324_1302.jpg"
+          src="/graphics/bad/20260324_1302.webp"
           alt="Wenigzeller Werkstätte detail"
           fill
           priority

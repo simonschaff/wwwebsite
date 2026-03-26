@@ -10,68 +10,68 @@ const categories = [
     id: "eingang",
     title: "Ankommen und Eintreten",
     description: "Der Eingangsbereich ist das Tor zur Seele eines Hauses und sollte daher mit Sorgfalt gestaltet werden, um einen bleibenden Eindruck zu hinterlassen.",
-    cover: "/graphics/eingang/20260324_1928.jpg",
+    cover: "/graphics/eingang/20260324_1928.webp",
     images: [
-      "/graphics/eingang/20260324_1928.jpg",
-      "/graphics/eingang/20260324_1933.jpg"
+      "/graphics/eingang/20260324_1928.webp",
+      "/graphics/eingang/20260324_1933.webp"
     ]
   },
   {
     id: "kochen",
     title: "Kochen und Essen",
     description: "Eine gut geplante Küche ist die Grundlage für ein angenehmes Kocherlebnis. Durch die optimale Anordnung der Arbeitsbereiche kann man Zeit und Energie sparen, um im Essbereich kulinarische Highlights zu genießen.",
-    cover: "/graphics/kochen/20260324_1439.jpg",
+    cover: "/graphics/kochen/20260324_1439.webp",
     images: [
-      "/graphics/kochen/20260324_1439.jpg",
-      "/graphics/kochen/20260324_1445.jpg",
-      "/graphics/kochen/20260324_1455.jpg",
-      "/graphics/kochen/20260324_1593.jpg"
+      "/graphics/kochen/20260324_1439.webp",
+      "/graphics/kochen/20260324_1445.webp",
+      "/graphics/kochen/20260324_1455.webp",
+      "/graphics/kochen/20260324_1593.webp"
     ]
   },
   {
     id: "wohnen",
     title: "Wohnen und Wohlfühlen",
     description: "Ein gut gestalteter Wohnbereich verfügt über bequeme Möbel, eine ansprechende Beleuchtung und eine Atmosphäre, die zum Verweilen mit Familie und Freunden einlädt.",
-    cover: "/graphics/wohnen/20260324_1520.jpg",
+    cover: "/graphics/wohnen/20260324_1520.webp",
     images: [
-      "/graphics/wohnen/20260324_1426.jpg",
-      "/graphics/wohnen/20260324_1480.jpg",
-      "/graphics/wohnen/20260324_1520.jpg",
-      "/graphics/wohnen/20260324_1547.jpg",
-      "/graphics/wohnen/20260324_1949.jpg"
+      "/graphics/wohnen/20260324_1426.webp",
+      "/graphics/wohnen/20260324_1480.webp",
+      "/graphics/wohnen/20260324_1520.webp",
+      "/graphics/wohnen/20260324_1547.webp",
+      "/graphics/wohnen/20260324_1949.webp"
     ]
   },
   {
     id: "schlafen",
     title: "Schlafen und Träumen",
     description: "Ein gut gestaltetes Schlafzimmer ist der perfekte Ort, um Ruhe und Erholung zu finden.",
-    cover: "/graphics/schlafen/20260324_1273.jpg",
+    cover: "/graphics/schlafen/20260324_1273.webp",
     images: [
-      "/graphics/schlafen/20260324_1273.jpg"
+      "/graphics/schlafen/20260324_1273.webp"
     ]
   },
   {
     id: "bad",
     title: "Bad und Ankleide",
     description: "Das Badezimmer verwandelt sich immer mehr zu einer Wohlfühloase.",
-    cover: "/graphics/bad/20260324_1241.jpg",
+    cover: "/graphics/bad/20260324_1241.webp",
     images: [
-      "/graphics/bad/20260324_1241.jpg",
-      "/graphics/bad/20260324_1245.jpg",
-      "/graphics/bad/20260324_1255.jpg",
-      "/graphics/bad/20260324_1260.jpg",
-      "/graphics/bad/20260324_1302.jpg"
+      "/graphics/bad/20260324_1241.webp",
+      "/graphics/bad/20260324_1245.webp",
+      "/graphics/bad/20260324_1255.webp",
+      "/graphics/bad/20260324_1260.webp",
+      "/graphics/bad/20260324_1302.webp"
     ]
   },
   {
     id: "gastro",
     title: "Gastronomie und Verkauf",
     description: "In einem sorgfältig ausgewählten Interieur fühlen sich die Gäste wohl. Sie verweilen, genießen und kommen gerne wieder.",
-    cover: "/graphics/gastro/20260324_1544.jpg",
+    cover: "/graphics/gastro/20260324_1544.webp",
     images: [
-      "/graphics/gastro/20260324_1544.jpg",
-      "/graphics/gastro/20260324_1659.jpg",
-      "/graphics/gastro/20260324_1661.jpg"
+      "/graphics/gastro/20260324_1544.webp",
+      "/graphics/gastro/20260324_1659.webp",
+      "/graphics/gastro/20260324_1661.webp"
     ]
   }
 ];
